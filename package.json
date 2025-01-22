@@ -1,0 +1,16 @@
+{
+    "name": "cypress-jdbc-test",
+    "version": "1.0.0",
+    "description": "Cypress project with JDBC connection",
+    "scripts": {
+      "cypress:open": "cypress open",
+      "cypress:run": "cypress run"
+    },
+    "dependencies": {
+      "nodejs-jdbc": "^0.1.5"
+    },
+    "devDependencies": {
+      "cypress": "^13.6.0",
+      "typescript": "^5.0.0"
+    }
+  }

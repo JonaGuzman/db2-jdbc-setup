@@ -27,6 +27,12 @@ Before running the setup script, ensure you have:
    - `wsl --install`
    - restart
    - once in wsl lets run bash script (use mount for c drive)
+   ```
+   cd $HOME
+   mkdir repos
+   git clone <git repo url>
+   cd repos/sample-repo
+   ```
 - Administrator privileges
 - Ubuntu or Debian-based WSL distribution
 

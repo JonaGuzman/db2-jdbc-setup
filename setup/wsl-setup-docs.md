@@ -24,6 +24,9 @@ This documentation covers two scripts designed to streamline the setup of a WSL 
 Before running the setup script, ensure you have:
 - Windows 10 version 2004 or higher
 - WSL2 installed and configured
+   - `wsl --install`
+   - restart
+   - once in wsl lets run bash script (use mount for c drive)
 - Administrator privileges
 - Ubuntu or Debian-based WSL distribution
 
